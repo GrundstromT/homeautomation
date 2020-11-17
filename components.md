@@ -12,7 +12,7 @@
 | EYCR-201 Dimmer              |          2 |          | On-Off/Dim lamps       | 433    | Pic. 5 #2  | For lamps with need of dimmer                   |
 | Google Nest                  |          1 |          |                        |        | Pic. 5 #3  | Dashboard in the hall to easily manage the home |
 | Aqara Temp & Humidity Sensor |          7 |      199 | Temp & Humidity Sensor | Zigbee | Pic. 5 #4  | Outside, in rooms, in fridge and freezer        |
-| Nexa WMR-252                 |          4 |          |                        | 433    | Pic. 5 #5  | Not installed.                                  |
+| Nexa WMR-252                 |          4 |          | Dimmer ceiling lamps   | 433    | Pic. 5 #5  | Not installed.                                  |
 | Nexa MYCR-250 Dimmer         |          3 |          | On-Off/Dim lamps       | 433    | Pic. 5 #6  |                                                 |
 | Nexa AD-147 Dimmer           |          1 |          | On-Off/Dim lamps       | Z-Wave | Pic. 5 #7  | For testing of Z-Wave network                   |
 | Google Home mini             |          2 |          |                        |        | Pic. 5 #8  | Voice control                                   |
