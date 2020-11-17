@@ -14,7 +14,7 @@
 | Aqara Temp & Humidity Sensor |          7 |      199 | Temp & Humidity Sensor | Zigbee | Pic. 5 #4  | Outside, in rooms, in fridge and freezer        |
 | Nexa WMR-252                 |          4 |          |                        | 433    | Pic. 5 #5  | Not installed.                                  |
 | Nexa MYCR-250 Dimmer         |          3 |          | On-Off/Dim lamps       | 433    | Pic. 5 #6  |                                                 |
-| Nexa AD-147 Dimmer           |          1 |          |                        | Z-Wave | Pic. 5 #7  | For testing of Z-Wave network                   |
+| Nexa AD-147 Dimmer           |          1 |          | On-Off/Dim lamps       | Z-Wave | Pic. 5 #7  | For testing of Z-Wave network                   |
 | Google Home mini             |          2 |          |                        |        | Pic. 5 #8  | Voice control                                   |
 | Ikea Trådfri button          |          1 |       69 |                        | Zigbee | Pic. 5 #9  |                                                 |
 | Water Leak Sensor            |          5 |      199 |                        | Zigbee | Pic. 5 #10 | Under household appliances                      |
